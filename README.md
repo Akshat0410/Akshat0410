@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Rishav Raj</h1>
+<h1 align="center">Hi 👋, I'm Anupam Prakash</h1>
 <h3 align="center">A Passionate Computer Science Student</h3>
 
-- 🌱 I’m currently learning **Android Development and Spring Framework** <br>
+- 🌱 I’m currently learning **Android Development and Spring Framework** 
 - 💬 Ask me about ... **Android, Java, Kotlin**
-- 👯 You can evenn follow me on https://www.linkedin.com/in/anupam-prakash-779bb0190/
 - 📫 How to reach me **anupamp74@gmail.com**
+- 👯 You can evenn follow me on https://www.linkedin.com/in/anupam-prakash-779bb0190/
+- ⚡ Fun fact: ...The more the resources the less the study :)
 
 <!--
 **Akshat0410/Akshat0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
