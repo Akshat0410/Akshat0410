@@ -9,6 +9,20 @@
 - 👯 You can evenn follow me on https://www.linkedin.com/in/anupam-prakash-779bb0190/
 - ⚡ Fun fact: ...The more the resources the less the study :)
 
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
+
+
+
+
+
+
+
+
+
+![Snake animation](https://github.com/Akshat0410/Akshat0410/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **Akshat0410/Akshat0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
